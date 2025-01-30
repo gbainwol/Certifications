@@ -2,7 +2,7 @@
 
 Each specialization has a set of courses you need to complete in order to get the professional certificate. 
 
-# Below is the curriculum from my Master's Degree at Colorado Boulder. 
+# Colorado Boulder MSDS program 
 
 ### Data Science Foundations: Statistical Inference Specialization
 
