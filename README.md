@@ -7,7 +7,9 @@ Each specialization has a set of courses you need to complete in order to get th
 ### Data Science Foundations: Statistical Inference Specialization
 
 -1.Probability Theory-(DTSA 5001)
+
 -2.Stats Inference for Estimation-(DTSA 5002)
+
 -3.Hypothetical Testing for DS-(DTSA 5003)
 
 ### Foundations of Data Structures and Algorithms Specialization
